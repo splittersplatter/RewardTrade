@@ -1,0 +1,20 @@
+{
+  "name": "rewardtrade",
+  "version": "1.0.0",
+  "description": "Loyalty point trading platform",
+  "homepage": "https://github.com/splittersplatter/RewardTrade#readme",
+  "bugs": {
+    "url": "https://github.com/splittersplatter/RewardTrade/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splittersplatter/RewardTrade.git"
+  },
+  "license": "ISC",
+  "author": "Dhruv",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
